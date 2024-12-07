@@ -35,4 +35,10 @@
 
 adding new thing
 
+## Branching
 
+- step01: to check on which branch you're 
+    - eg: 'git branch'
+- step02: to move and create new branch
+    -eg: 'git checkout -b task/development-branch'
+    -if branch already exist eg: 'git checkout <branch-name>'
